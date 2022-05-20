@@ -1,3 +1,8 @@
+# Hi there 👋
+
+<p>My name is AL from the Philippines. A trained Statistician working as a Data Scientist. Apart from coding, I enjoy reading humanities books on history, religions and philosophy. In fact, I recently got interested on Digital Humanities and Islamic Studies. Lastly, I love beach and swimming.
+</p>
+<hr>
 <table>
   <tbody>
     <tr>
