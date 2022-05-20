@@ -41,5 +41,7 @@
     <td><a href="https://github.com/alstat/Yunir.jl">Yunir.jl</a></td>
   </tr>  
 </table>
-
-![profileViews](https://komarev.com/ghpvc/?username=alstat)
+<br>
+<a href="https://www.linkedin.com/in/al-ahmadgaid-asaad-68613a44/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> . . .
