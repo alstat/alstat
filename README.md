@@ -7,7 +7,7 @@
         </a><br/><br/>
         📃 Publications: <a href="https://scholar.google.com/citations?user=CQq7qi0AAAAJ&hl=en&authuser=2">Google Scholar</a><br/>
         🎓 ORCID: <a href="https://orcid.org/0000-0003-3784-8593">0000-0003-3784-8593</a><br/>
-        📝 Blog: <a href="estadistika.github.io">estadistika.github.io</a>
+        📝 Blog: <a href="https://estadistika.github.io/">estadistika.github.io</a>
       </td>
       <td>
         <a href="https://github.com/alstat">
