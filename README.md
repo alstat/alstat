@@ -1,6 +1,5 @@
 # Hi there 👋
-
-<p>My name is AL from the Philippines. A trained Statistician working as a Data Scientist. Apart from coding, I enjoy reading humanities books on history, religions and philosophy. Lastly, I love swimming 🏊.
+<p>My name is AL from the Philippines. A trained Statistician working as a Data Scientist. Apart from coding, I enjoy reading humanities books on history, religions and philosophy. Lastly, I love swimming 🏊. 
 </p>
 <br/>
 <table>
@@ -42,3 +41,5 @@
     <td><a href="https://github.com/alstat/Yunir.jl">Yunir.jl</a></td>
   </tr>  
 </table>
+
+![profileViews](https://komarev.com/ghpvc/?username=alstat)
