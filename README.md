@@ -25,13 +25,16 @@
 📦 Software Packages:<br/>
 <table>
   <tr>
-    <td>
+    <td><a href="https://github.com/alstat/ALUES">
       <img src="https://github.com/alstat/ALUES/blob/087a34118d9da6456491ddefa69c2a7baf6c84a4/docs/logo.svg" align="center" width="100"/>
+      </a>
     </td>
-    <td><img src="https://github.com/alstat/QuranTree.jl/blob/e15b39addbca5fe1c68fb3b1be773cb84eb83ed1/docs/src/assets/logo.png" align="center" width="100"/>
+    <td><a href="https://github.com/alstat/QuranTree.jl">
+      <img src="https://github.com/alstat/QuranTree.jl/blob/e15b39addbca5fe1c68fb3b1be773cb84eb83ed1/docs/src/assets/logo.png" align="center" width="100"/></a>
     </td>
-     <td>
+     <td><a href="https://github.com/alstat/Yunir.jl">
       <img src="https://github.com/alstat/Yunir.jl/blob/c531f3b51f3c569234b967f48617f89bd644cedb/docs/src/assets/logo.png" align="center" width="100"/>
+       </a>
     </td>
   </tr>  
   
