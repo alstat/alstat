@@ -33,7 +33,7 @@
       <img src="https://github.com/alstat/QuranTree.jl/blob/e15b39addbca5fe1c68fb3b1be773cb84eb83ed1/docs/src/assets/logo.png" align="center" width="100"/></a>
     </td>
      <td><a href="https://github.com/alstat/Yunir.jl">
-      
+      <img src="https://github.com/alstat/Yunir.jl/blob/c531f3b51f3c569234b967f48617f89bd644cedb/docs/src/assets/logo.png" align="center" width="100"/>
        </a>
     </td>
   </tr>  
