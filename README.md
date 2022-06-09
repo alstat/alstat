@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/alstat/ALUES">
-      <img src="https://github.com/alstat/ALUES/blob/087a34118d9da6456491ddefa69c2a7baf6c84a4/docs/logo.svg" align="center" width="100"/>
+      <img src="https://raw.githubusercontent.com/alstat/ALUES/master/logo.svg" align="center" width="100"/>
       </a>
     </td>
     <td><a href="https://github.com/alstat/QuranTree.jl">
