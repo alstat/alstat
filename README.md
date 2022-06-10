@@ -19,11 +19,16 @@ The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, ال
         <a href="https://github.com/alstat">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstat&hide=jupyter%20notebook,tex&layout=compact&theme=gruvbox" />
         </a><br><br>
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>        
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><br>
+        <a href="https://www.typescriptlang.org/">        
+          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a><br>
+        <a href="https://www.latex-project.org/">
+          <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/></a>
+        <a href="https://sass-lang.com/">
+          <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/></a><br>
+        <a href="https://isocpp.org/">
+          <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>        
+        <a href="https://www.java.com/en/">
+          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a><br>
       </td>
     </tr>
   </tbody>
