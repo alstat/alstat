@@ -11,14 +11,19 @@ The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, ال
         <a href="https://github.com/alstat">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=alstat&count_private=true&show_icons=true&theme=gruvbox" />
         </a><br><br>
-        📝 Blog: <a href="https://estadistika.github.io/">estadistika.github.io</a>
+        📝 Blog: <a href="https://estadistika.github.io/">estadistika.github.io</a><br>
+        📚 Publications: <a href="https://scholar.google.com/citations?user=CQq7qi0AAAAJ&hl=en&authuser=2">Google Scholar</a><br/>
+        🎓 ORCID: <a href="https://orcid.org/0000-0003-3784-8593">0000-0003-3784-8593</a>
       </td>
       <td>
         <a href="https://github.com/alstat">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstat&hide=jupyter%20notebook,tex&layout=compact&theme=gruvbox" />
-        </a><br><br>
-        📚 Publications: <a href="https://scholar.google.com/citations?user=CQq7qi0AAAAJ&hl=en&authuser=2">Google Scholar</a><br/>
-        🎓 ORCID: <a href="https://orcid.org/0000-0003-3784-8593">0000-0003-3784-8593</a>
+        </a><br><br><br>
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
       </td>
     </tr>
   </tbody>
