@@ -18,7 +18,7 @@ The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, ال
       <td>
         <a href="https://github.com/alstat">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstat&hide=jupyter%20notebook,tex&layout=compact&theme=gruvbox" />
-        </a><br><br><br>
+        </a><br><hr>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br>
