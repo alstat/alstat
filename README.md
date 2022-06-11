@@ -41,6 +41,15 @@ The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, ال
       <img src="https://raw.githubusercontent.com/alstat/ALUES/master/logo.svg" align="center" width="100"/>
       </a>
     </td>
+      <td><a href="https://github.com/alstat/Bagyo.jl">
+      <img src="https://raw.githubusercontent.com/alstat/Bagyo.jl/master/docs/src/assets/logo.svg" align="center" width="100"/>
+      </a>
+    </td>
+    </td>
+      <td><a href="https://github.com/alstat/Kitab.jl">
+      <img src="https://raw.githubusercontent.com/alstat/Kitab.jl/master/docs/src/assets/logo.svg" align="center" width="100"/>
+      </a>
+    </td>
     <td><a href="https://github.com/alstat/QuranTree.jl">
       <img src="https://github.com/alstat/QuranTree.jl/blob/e15b39addbca5fe1c68fb3b1be773cb84eb83ed1/docs/src/assets/logo.png" align="center" width="100"/></a>
     </td>
@@ -49,9 +58,11 @@ The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, ال
        </a>
     </td>
   </tr>  
-  
+
   <tr>
     <td><a href="https://github.com/alstat/ALUES">ALUES</a></td>
+    <td><a href="https://github.com/alstat/Bagyo.jl">Bagyo.jl</a></td>
+    <td><a href="https://github.com/alstat/Kitab.jl">Kitab.jl</a></td>
     <td><a href="https://github.com/alstat/QuranTree.jl">QuranTree.jl</a></td>
     <td><a href="https://github.com/alstat/Yunir.jl">Yunir.jl</a></td>
   </tr>  
