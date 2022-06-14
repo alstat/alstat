@@ -3,7 +3,6 @@
   
 The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, الأسعد.
 </p>
-<br/>
 <table>
   <tbody>
     <tr>
@@ -33,18 +32,32 @@ The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, ال
     </tr>
   </tbody>
 </table>
-<br/>
-📦 Software Packages:<br/>
+<h2>📦 Software Packages</h2>
+<h3>Agricultural Science</h3>
 <table>
   <tr>
     <td><a href="https://github.com/alstat/ALUES">
       <img src="https://raw.githubusercontent.com/alstat/ALUES/master/logo.svg" align="center" width="100"/>
       </a>
     </td>
-      <td><a href="https://github.com/alstat/Bagyo.jl">
+  <tr>
+    <td><a href="https://github.com/alstat/ALUES">ALUES</a></td>
+  </tr>
+</table>
+<h3>Climate Science</h3>
+<table>
+  <tr>
+    <td><a href="https://github.com/alstat/Bagyo.jl">
       <img src="https://raw.githubusercontent.com/alstat/Bagyo.jl/master/docs/src/assets/logo.svg" align="center" width="100"/>
       </a>
     </td>
+  <tr>
+    <td><a href="https://github.com/alstat/Bagyo.jl">Bagyo.jl</a></td>
+  </tr>
+</table>
+<h3>Arabic NLP / Islamicate Digital Humanities</h3>
+<table>
+  <tr>
     </td>
       <td><a href="https://github.com/alstat/Kitab.jl">
       <img src="https://raw.githubusercontent.com/alstat/Kitab.jl/master/docs/src/assets/logo.svg" align="center" width="100"/>
@@ -58,10 +71,7 @@ The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, ال
        </a>
     </td>
   </tr>  
-
   <tr>
-    <td><a href="https://github.com/alstat/ALUES">ALUES</a></td>
-    <td><a href="https://github.com/alstat/Bagyo.jl">Bagyo.jl</a></td>
     <td><a href="https://github.com/alstat/Kitab.jl">Kitab.jl</a></td>
     <td><a href="https://github.com/alstat/QuranTree.jl">QuranTree.jl</a></td>
     <td><a href="https://github.com/alstat/Yunir.jl">Yunir.jl</a></td>
