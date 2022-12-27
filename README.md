@@ -77,7 +77,7 @@ The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, ال
     <td><a href="https://github.com/alstat/Yunir.jl">Yunir.jl</a></td>
   </tr>  
 </table>
-<h3>rOpenSci Libraries Reviewed / Co-authored</h3>
+<h3>rOpenSci Libraries Reviewed</h3>
 <table>
   <tr>
     <td><a href="https://docs.ropensci.org/datefixR/authors.html">
