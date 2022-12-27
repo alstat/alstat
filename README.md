@@ -77,6 +77,17 @@ The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, ال
     <td><a href="https://github.com/alstat/Yunir.jl">Yunir.jl</a></td>
   </tr>  
 </table>
+<h3>rOpenSci Libraries Reviewed / Co-authored</h3>
+<table>
+  <tr>
+    <td><a href="https://docs.ropensci.org/datefixR/authors.html">
+      <img src="https://docs.ropensci.org/datefixR/logo.png" align="center" width="100"/>
+      </a>
+    </td>
+  <tr>
+    <td><a href="https://docs.ropensci.org/datefixR/authors.html">datefixR</a></td>
+  </tr>
+</table>
 <br>
 <a href="https://www.linkedin.com/in/al-ahmadgaid-asaad-68613a44/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
