@@ -88,6 +88,17 @@ The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, ال
     <td><a href="https://docs.ropensci.org/datefixR/authors.html">datefixR</a></td>
   </tr>
 </table>
+<h3>JOSS Software Reviewed</h3>
+<table>
+  <tr>
+    <td><a href="https://joss.theoj.org/papers/10.21105/joss.05161">
+      <img src="https://raw.githubusercontent.com/biaslab/RxInfer.jl/main/docs/src/assets/biglogo-blacktheme.svg" align="center" width="100"/>
+      </a>
+    </td>
+  <tr>
+    <td><a href="https://docs.ropensci.org/datefixR/authors.html">RxInfer.jl</a></td>
+  </tr>
+</table>
 <br>
 <a href="https://www.linkedin.com/in/al-ahmadgaid-asaad-68613a44/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
