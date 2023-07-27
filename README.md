@@ -101,5 +101,5 @@ The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, ال
 </table>
 <br>
 <a href="https://www.linkedin.com/in/al-ahmadgaid-asaad-68613a44/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a> . . .
