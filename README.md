@@ -1,5 +1,5 @@
 # <img align="right" width="100" src="https://raw.githubusercontent.com/alstat/logo/main/logo.svg"/> Hi there, palanjal kam! 👋 
-<p>I'm AL, a Statistician working as a Data Scientist, from the Philippines. My area of expertise is Bayesian Statistics. Apart from coding, I enjoy reading humanities books on history, religions, philosophy and languages. I also have interest in Arabic calligraphy 🖋, and at outdoors, I enjoy free diving 🏊, and riding my motorcycle 🏍️ to explore nature's beauty.
+<p>I'm AL, a Statistician working as a Data Scientist, from the Philippines. My area of expertise is Bayesian Statistics since the world is full of uncertainty and point estimate is not enough, a full probability distribution is. Apart from coding, I enjoy reading humanities books on history, religions, philosophy and languages. I also have interest in Arabic calligraphy 🖋, and at outdoors, I enjoy free diving 🏊, and riding my motorcycle 🏍️ to explore nature's beauty.
   
 The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, الأسعد.
 </p>
