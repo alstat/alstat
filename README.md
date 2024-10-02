@@ -1,4 +1,4 @@
-# <img align="right" width="100" src="https://raw.githubusercontent.com/alstat/logo/main/logo.svg"/> Assalamu 'Alaikum! Palanjal Kam! 👋 
+# <img align="right" width="100" src="https://raw.githubusercontent.com/alstat/logo/main/logo.svg"/> Assalāmu 'Alaikum! Palanjal Kam! 👋 
 <p>I'm AL, a Statistician working as a Data Scientist, from the Philippines. My area of expertise is Bayesian Statistics with heavy interest in Probability theory. Apart from coding, I enjoy reading humanities books on history, religions, philosophy and languages. I also have interest in Arabic calligraphy 🖋. Apart from these, I also enjoy free diving 🏊, and riding my motorcycle 🏍️.
   
 The logo in the right is a Kufic calligraphy of my name Al Asaad in Arabic, الأسعد.
